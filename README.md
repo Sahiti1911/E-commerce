@@ -114,12 +114,6 @@ Contributions are welcome! If you’d like to help improve the project or add ne
 
 ---
 
-## 📄 **License**  
-
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ### ⭐ **Show your support**  
 
 If you like this project, please consider giving it a star 🌟 on GitHub!
