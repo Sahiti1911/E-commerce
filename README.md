@@ -95,10 +95,13 @@ ecommerce-platform/
 ## 🎨 **Screenshots**  
 
 ### 🔐 Login Page  
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page+Screenshot)
+![Login Page](https://via.placeholder.com/800x400?text=Login+Page+Screenshot)![Screenshot 2024-12-03 164600](https://github.com/user-attachments/assets/5c6b8b3f-3f9b-4783-919b-4be81350c016)
+
 
 ### ✍️ Signup Page  
-![Signup Page](https://via.placeholder.com/800x400?text=Signup+Page+Screenshot)
+![Signup Page](https://via.placeholder.com/800x400?text=Signup+Page+Screenshot)![Screenshot 2024-12-03 164600](https://github.com/user-attachments/assets/432868a9-d43e-4c6a-ae7d-49e14f6fe094)
+
+
 
 ### 🧭 Header  
 ![Header](https://via.placeholder.com/800x400?text=Header+Screenshot)
