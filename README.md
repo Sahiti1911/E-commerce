@@ -99,8 +99,7 @@ ecommerce-platform/
 
 
 ### ✍️ Signup Page  
-![Screenshot 2024-12-03 164600](https://github.com/user-attachments/assets/432868a9-d43e-4c6a-ae7d-49e14f6fe094)
-
+![Screenshot 2024-12-03 164623](https://github.com/user-attachments/assets/1500a444-d2e2-4194-8ec9-75ee343df26f)
 
 
 ### 🧭 Header  
